@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Nigerian Schools API"
+title: "0 - Introduction to Nigerian Schools API"
 datePublished: Sun Jul 02 2023 13:58:59 GMT+0000 (Coordinated Universal Time)
 cuid: cljli059a000809l23obogeit
-slug: introduction-to-nigerian-schools-api
+slug: 0-introduction-to-nigerian-schools-api
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688304903970/e9bf5298-6d20-466b-b07f-8a7c2506a53c.png
 tags: python, opensource, apis
 
